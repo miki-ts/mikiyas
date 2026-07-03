@@ -199,4 +199,5 @@ export default function Projects() {
         </p>
       </FadeInSection>
     </section>
-  
+  )
+}
