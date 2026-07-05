@@ -138,7 +138,7 @@ export default function Hero({ onReadyForNavbar }) {
               transition={{ duration: 1.2, ease: "easeOut" }}
               className="text-[clamp(3.5rem,15vw,5.5rem)] font-extrabold tracking-tight text-center leading-[0.9] sm:leading-[1.05]"
             >
-              Meet Mikiyas
+              Mikiyas Tesfaye
             </motion.h1>
           )}
         </AnimatePresence>
