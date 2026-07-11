@@ -172,7 +172,7 @@ export default function Hero({ onReadyForNavbar }) {
             <div className="relative sm:hero-portrait-mask z-10">
               <img
                 alt="Mikiyas Tesfaye"
-                src="/mikiyas1."
+                src="/mikiyas1.avif"
                 className="
                   w-[140%] sm:w-auto sm:max-h-[73vh] object-cover object-top 
                   -translate-y-20 sm:translate-y-5 select-none pointer-events-none
