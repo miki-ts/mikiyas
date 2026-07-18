@@ -21,7 +21,7 @@ export default function About() {
     {
       icon: <GraduationCap size={36} className="text-black" />,
       title: "Education",
-      description: "Third year computer science student, Admas University"
+      description: "Third year computer science student"
     },
     {
       icon: <Laptop size={36} className="text-black" />,
