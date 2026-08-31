@@ -23,7 +23,7 @@ const projects = [
     tech: [],
     live: "https://afrirobot.vercel.app",
     github: "https://github.com/tackkety/test10",
-    image: "/afrirobot.png",
+    image: "/new.avif",
     
   },
   {
