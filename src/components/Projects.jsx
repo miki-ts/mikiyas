@@ -27,6 +27,14 @@ const projects = [
     
   },
   {
+    title: "Roha mobile store – Original Mobiles With Full Warranty",
+    description: "ROHA Mobile Store is a full featured online mobile phone store built for the Ethiopian market. It provides customers with a simple way to discover and order genuine smartphones, while giving the store owner a centralized admin system for managing products, inventory, orders, payments, and revenue.",
+    tech: [],
+    live: "https://roha-mobile-store.mystore-roha.workers.dev/",
+    image: "/roha.png",
+    
+  },
+  {
     title: "Idtree – One destination for everything you create.",
     description: "IDTree is an all-in-one digital profile platform that helps individuals, creators, and businesses share links, portfolios, products, services, and contact info, and build a professional online representation from a single customizable page.",
     tech: [],
@@ -80,9 +88,7 @@ function ProjectCard({ project }) {
     return (
       <div className="relative w-full aspect-video overflow-hidden bg-neutral-900 border-b border-black/5">
         <div className={`absolute inset-0 bg-gradient-to-br ${project.fallbackBg} opacity-20 flex items-center justify-center`}>
-          <span className="text-white/40 font-black text-xl tracking-widest uppercase">
-            {project.title.split(' ')[0]}
-          </span>
+          
         </div>
         {isVideo ? (
           <video
