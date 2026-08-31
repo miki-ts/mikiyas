@@ -174,11 +174,8 @@ export default function Hero({ onReadyForNavbar }) {
                 alt="Mikiyas Tesfaye"
                 src="/miki.png"
                 className="
-                  w-full sm:w-auto sm:max-w-[90%] lg:max-w-none 
-max-h-[65vh] sm:max-h-[73vh]
-h-auto object-contain object-top
-translate-y-0 sm:translate-y-5
-select-none pointer-events-none
+                  w-[140%] sm:w-auto sm:max-h-[73vh] object-cover object-top 
+                  -translate-y-20 sm:translate-y-5 select-none pointer-events-none
                 "
                 
               />
