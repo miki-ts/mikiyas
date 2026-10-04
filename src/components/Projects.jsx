@@ -22,7 +22,6 @@ const projects = [
     description: "Afrirobot is a technology studio that blends innovation and design. We focus on creating top notch motion graphics, futuristic visuals, and smart software that take ideas and brands to new heights. With a unique mix of artistry and technology, we develop solutions that inspire, engage, and connect with people from different cultures.",
     tech: [],
     live: "https://afrirobot.vercel.app",
-    github: "https://github.com/tackkety/test10",
     image: "/afri.png",
     
   },
@@ -35,11 +34,18 @@ const projects = [
     
   },
   {
+    title: "YM Logistics – CONNECTING ETHIOPIA TO GLOBAL MARKETS",
+    description: "YM Logistics is Comprehensive air freight, sea freight, customs clearance, and transportation solutions across Ethiopia and East Africa.",
+    tech: [],
+    live: "https://ym-logistics.vercel.app/",
+    image: "/ym.png",
+    
+  },
+  {
     title: "Idtree – One destination for everything you create.",
     description: "IDTree is an all-in-one digital profile platform that helps individuals, creators, and businesses share links, portfolios, products, services, and contact info, and build a professional online representation from a single customizable page.",
     tech: [],
     live: "https://test1-r9ka.vercel.app/",
-    github: "https://github.com/miki-ts/test1",
     image: "/id.png",
     
   },
@@ -48,7 +54,6 @@ const projects = [
     description: "Advanced automated vulnerability assessment platform built with FastAPI and React for next-generation web application security.",
     tech: [],
     live: "https://redhorn.vercel.app",
-    github: "https://github.com/miki-ts/RedHorn",
     image: "/redhorn.png",
     
   },
