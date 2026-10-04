@@ -18,6 +18,12 @@ function FadeInSection({ children, delay = 0, className }) {
 export default function Skills() {
   const skillCategories = [
     {
+      title: "Ui/Ux design",
+      skills: [
+        "Figma"
+      ]
+    },
+    {
       title: "Programming Languages",
       skills: ["Java", "c++", "Python", "SQl"]
     },
