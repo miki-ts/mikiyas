@@ -42,19 +42,19 @@ const projects = [
     
   },
   {
+    title: "RedHorn – SECURITY TESTING FRAMEWORK",
+    description: "Advanced automated vulnerability assessment platform built with FastAPI and React for next-generation web application security.",
+    tech: [],
+    live: "https://redhorn.vercel.app",
+    image: "/red.png",
+    
+  },
+  {
     title: "Idtree – One destination for everything you create.",
     description: "IDTree is an all-in-one digital profile platform that helps individuals, creators, and businesses share links, portfolios, products, services, and contact info, and build a professional online representation from a single customizable page.",
     tech: [],
     live: "https://test1-r9ka.vercel.app/",
     image: "/id.png",
-    
-  },
-  {
-    title: "RedHorn – SECURITY TESTING FRAMEWORK",
-    description: "Advanced automated vulnerability assessment platform built with FastAPI and React for next-generation web application security.",
-    tech: [],
-    live: "https://redhorn.vercel.app",
-    image: "/redhorn.png",
     
   },
   {
