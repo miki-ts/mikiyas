@@ -46,7 +46,7 @@ const projects = [
     description: "Advanced automated vulnerability assessment platform built with FastAPI and React for next-generation web application security.",
     tech: [],
     live: "https://redhorn.vercel.app",
-    image: "/red.png",
+    image: "/99.png",
     
   },
   {
