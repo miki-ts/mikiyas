@@ -22,7 +22,7 @@ const projects = [
     description: "Afrirobot is a technology studio that blends innovation and design. We focus on creating top notch motion graphics, futuristic visuals, and smart software that take ideas and brands to new heights. With a unique mix of artistry and technology, we develop solutions that inspire, engage, and connect with people from different cultures.",
     tech: [],
     live: "https://afrirobot.vercel.app",
-    image: "/afri.png",
+    image: "/1000.avif",
     
   },
   {
@@ -30,7 +30,7 @@ const projects = [
     description: "ROHA Mobile Store is a full featured online mobile phone store built for the Ethiopian market. It provides customers with a simple way to discover and order genuine smartphones, while giving the store owner a centralized admin system for managing products, inventory, orders, payments, and revenue.",
     tech: [],
     live: "https://roha-mobile-store.mystore-roha.workers.dev/",
-    image: "/roha.png",
+    image: "/2.avif",
     
   },
   {
@@ -38,7 +38,7 @@ const projects = [
     description: "YM Logistics is Comprehensive air freight, sea freight, customs clearance, and transportation solutions across Ethiopia and East Africa.",
     tech: [],
     live: "https://ym-logistics.vercel.app/",
-    image: "/ym.png",
+    image: "/1.avif",
     
   },
   {
@@ -46,7 +46,7 @@ const projects = [
     description: "Advanced automated vulnerability assessment platform built with FastAPI and React for next-generation web application security.",
     tech: [],
     live: "https://redhorn.vercel.app",
-    image: "/99.png",
+    image: "/999.avif",
     
   },
   {
